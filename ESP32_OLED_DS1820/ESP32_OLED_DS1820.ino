@@ -1,5 +1,7 @@
-//ESP32_OLED_DS18B20 test OK
-//2021-09-30
+// ESP32_OLED_DS18B20 test on board is OK.
+// Publicated on github.
+// 2021-09-30.
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #define ONE_WIRE_BUS 13
